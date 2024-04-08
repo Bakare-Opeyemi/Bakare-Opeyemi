@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am **Bakare Opeyemi Abdullateef**, a ✨ Versatile Engineer✨ with extreme love for `Analytical Concepts` . I have a Bachelor's degree in Physical and Health education with a BSc in Mechanical Engineering in View (Currently in my final year of study).
+I am **Bakare Opeyemi Abdullateef**, a ✨ Versatile Engineer✨ with extreme love for `Analytical Concepts` . I have a Bachelor's degree in Physical and Health education with a BSc in Mechanical Engineering (first class honours).
 
-✨ With about two years of professional experience in Data science and machine learning. My principal goal is delivering a thousand Artificial Intelligence powered Applications that will go on to shape the future of Mankind for the better ✨
+✨ With about four years of professional experience in Data science and machine learning. My principal goal is delivering a thousand Artificial Intelligence powered Applications that will go on to shape the future of Mankind for the better ✨
 
 Here are a few facts to get to know me better:
 
